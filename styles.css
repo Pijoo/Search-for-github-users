@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	color: lightgray;
+	font-family: Calibri;
+}
+input, label, form {
+	text-align: center;
+	margin-right: 10px;
+}
+input {
+	margin-bottom: 50px;
+	color: gray;
+}
+a {
+	color: lightgray;
+	line-height: 40px;
+}
+
+#portrait {
+	margin-top: 20px;
+	display: block;
+	margin: 0 auto;
+}
