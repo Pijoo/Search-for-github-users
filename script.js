@@ -53,7 +53,7 @@ class User extends React.Component {
 	return (
 	  <div>
 		<img
-		  className={style.portrait}
+		  className="portrait"
 		  src={this.props.user.avatar_url}
 		  style={{ maxWidth: "100px" }}
 		/>
